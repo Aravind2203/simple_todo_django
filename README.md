@@ -2,7 +2,7 @@
 This is a simple todo list in django web framework.
 
 This is completely made with django framework in python.
-I have used bootstrap for styling.
+I have used bootstrap and css for styling.
 
 
 ## sample image
